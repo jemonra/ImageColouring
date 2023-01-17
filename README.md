@@ -5,10 +5,10 @@ Project developed by Alejandro Cano Caldero and Jesús Moncada Ramírez for the 
 ## 1. Interesting links
 
 Some interesting links that help to understand the problem we are covering are:
-- [Video explaining the paper](https://www.youtube.com/watch?v=UcHe0xiuvpg)
-- [Video developing the paper in Keras](https://www.youtube.com/watch?v=6pUSZgPJ3Yg)
-- [Page developing a similar project in Python](https://learnopencv.com/paired-image-to-image-translation-pix2pix/#discriminator)
-- [Introduction to Generative Adversarial Netowrks](https://learnopencv.com/introduction-to-generative-adversarial-networks/)
-- [Conditional GANs in PyTorch and TensorFlow](https://learnopencv.com/conditional-gan-cgan-in-pytorch-and-tensorflow/)
+- [(Video) Image to image translation using Pix2Pix GAN](https://www.youtube.com/watch?v=UcHe0xiuvpg)
+- [(Video) Satellite image to maps translation using pix2pix GAN](https://www.youtube.com/watch?v=6pUSZgPJ3Yg)
+- [Pix2Pix:Image-to-Image Translation in PyTorch & TensorFlow](https://learnopencv.com/paired-image-to-image-translation-pix2pix/#discriminator)
+- [Introduction to Generative Adversarial Netowrks (GANs)](https://learnopencv.com/introduction-to-generative-adversarial-networks/)
+- [Conditional GAN (cGAN) in PyTorch and TensorFlow](https://learnopencv.com/conditional-gan-cgan-in-pytorch-and-tensorflow/)
 
 
