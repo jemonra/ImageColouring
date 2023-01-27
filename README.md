@@ -10,9 +10,11 @@ We trained some models with a 500 samples training set from Imagenette. The resu
 
 ## 3. Some results
 Some results of our work are the following. For this input image:
-![Input image](/results/input_img_1.png "Input image")
+
+![Input image](/results/input_image_1.png "Input image")
 
 these are the results:
+
 ![Result](/results/result_1.png "Results")
 
 ## 4. Paper
