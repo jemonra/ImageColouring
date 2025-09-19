@@ -24,7 +24,9 @@ The image recoloring architecture produced the recolored image:
 
 We have also created a [paper](docs/ImageRecoloringWithConditionalGANs.pdf) explaining all the work done, the theory behind the models, and the obtained results.
 
-## 5. Interesting links
+## 5. Additional information
+
+This repository also contains the [submission instructions](docs/given_explanation.pdf) provided by the *Neural Networks and Deep Learning* course professor, as well as the [original paper](docs/ImageToImageTranslationWithConditionalAdversarialNetworks.pdf) that inspired our work.
 
 Some interesting links that helped us to understand the covered problem:
 - [(Video) Image to image translation using Pix2Pix GAN](https://www.youtube.com/watch?v=UcHe0xiuvpg)
