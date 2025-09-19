@@ -1,6 +1,6 @@
 # Image Colouring
 
-Project developed by [Alejandro Cano Caldero](https://github.com/AlejandroCanoCaldero) and [Jesús Moncada Ramírez](https://github.com/jemonra) for the subject *Neural Networks and Deep Learning*, University of Padova, 2022-23.
+Project developed by [Alejandro Cano Caldero](https://github.com/AlejandroCanoCaldero) and [Jesús Moncada Ramírez](https://github.com/jemonra) for the subject *Neural Networks and Deep Learning*, University of Padua, 2022-23.
 
 ## 1. Abstract
 
